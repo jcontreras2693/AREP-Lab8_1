@@ -147,7 +147,7 @@ Congratulations! You've built a simple LLM application that translates text from
 
 This is just the beginning of what you can do with LangChain. To dive deeper, check out the [LangChain Conceptual Guides](https://langchain.com/concepts) and [How-To Guides](https://langchain.com/how-to) for more advanced topics and techniques.
 
-## acknowledgement
+## Acknowledgement
 
 * [LangChain Tutorial](https://python.langchain.com/docs/tutorials/llm_chain/)
 
