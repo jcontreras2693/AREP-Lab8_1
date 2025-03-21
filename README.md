@@ -146,3 +146,7 @@ Congratulations! You've built a simple LLM application that translates text from
 - Stream responses from the model.
 
 This is just the beginning of what you can do with LangChain. To dive deeper, check out the [LangChain Conceptual Guides](https://langchain.com/concepts) and [How-To Guides](https://langchain.com/how-to) for more advanced topics and techniques.
+
+## Authors
+
+* **Juan David Contreras Becerra** - *Taller 8.1 | AREP* - [AREP-Lab8.1](https://github.com/jcontreras2693/AREP-Lab8_1.git)
